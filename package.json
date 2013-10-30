@@ -20,5 +20,8 @@
     "browserify": "~2.35.0",
     "grunt-browserify": "~1.2.9",
     "grunt-contrib-copy": "~0.4.1"
+  },
+  "dependencies": {
+    "md5": "~1.0.0"
   }
 }
