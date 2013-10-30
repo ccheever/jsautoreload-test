@@ -1,0 +1,22 @@
+{
+  "name": "jsautoreload-test",
+  "version": "0.0.0",
+  "homepage": "https://github.com/ccheever/jsautoreload-test",
+  "authors": [
+    "Charlie Cheever <ccheever@gmail.com>"
+  ],
+  "description": "Testing autoreload",
+  "main": "build/js/index.js",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.5.1"
+  }
+}
